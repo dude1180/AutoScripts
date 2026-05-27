@@ -7,15 +7,15 @@ import cv2
 
 # 1. UBAH VARIABEL SAMPAI SOAL TERDETEKSI
 # ganti xxx di bawah ini jadi angka kordinat menggunakan Window Spy!
-box_top    = 0   # posisi Y paling atas papan soal
-box_left   = 0   # posisi X paling kiri papan soal
-box_width  = 0   # lebar area yang mau di-scan (X kanan - X kiri)
-box_height = 0   # tinggi area yang mau di-scan (Y bawah - Y atas)
+box_top    = xxx   # posisi Y paling atas papan soal
+box_left   = xxx   # posisi X paling kiri papan soal
+box_width  = xxx   # lebar area yang mau di-scan (X kanan - X kiri)
+box_height = xxx   # tinggi area yang mau di-scan (Y bawah - Y atas)
 
 # 2. VARIABEL SENSOR UI (TRIGGER PIXEL)
 # koordinat pixel UI ... di box untuk isi jawaban (isi dengan kordinat salah satu titik itu (...))
-trigger_x = 0
-trigger_y = 0
+trigger_x = xxx
+trigger_y = xxx
 
 reader = easyocr.Reader(['en'], gpu=False)
 
