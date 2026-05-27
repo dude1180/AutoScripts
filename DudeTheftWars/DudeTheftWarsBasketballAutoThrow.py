@@ -8,7 +8,7 @@ end_x, end_y = xxx, xxx      # Koordinat akhir
 swipe_duration = 0.2         # Kecepatan swipe
 delay_lemparan = x.xx         # Waktu tunggu reset
 
-print("=== SCRIPT BASKETBALL AUTO THROW DUDE THEFT WARS ===")
+print("=== SCRIPT BASKETBALL AUTO THROW DUDE THEFT WARS By dude1180 ===")
 print("1. Pastikan script dijalankan sebagai ADMINISTRATOR.")
 print("2. Buka emulator, pastikan karakter siap di lapangan.")
 print("3. Tekan tombol '-' di keyboard untuk MEMULAI.")
