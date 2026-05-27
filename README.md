@@ -8,3 +8,4 @@ Before running the scripts, make sure you have Python installed and the required
 
 ```bash
 pip install pyautogui keyboard
+pip install mss keyboard
